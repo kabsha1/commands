@@ -1,0 +1,7 @@
+git commands 
+<br>
+git init ,git status, git add, git config --list,git config --global user.name ,git config --global user.email
+<br>
+git config --global --unset user.name "kabsha"
+<br>
+git config --global --unset user.email "kabsha@gmail.com"
